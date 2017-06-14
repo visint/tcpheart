@@ -1,0 +1,9 @@
+{
+    "name": "get",
+    "version": "1.0.0",
+    "serialnumber": "%s",
+    "commandkey": "wireless",
+    "params": {
+        "type": "1"
+    }
+}
