@@ -12,6 +12,6 @@ typedef struct					/* message structure */
 } msg_t;
 
 #define T1				60		/* idle time before heartbeat */
-#define T2				10		/* time to wait for response */
+#define T2				300		/* time to wait for response */
 
 #endif  /* __HEARTBEAT_H__ */

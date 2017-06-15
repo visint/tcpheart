@@ -2,8 +2,10 @@
     "name": "get",
     "version": "1.0.0",
     "serialnumber": "%s",
-    "keyname": "wireless",
+    "keyname": "file",
     "packet": {
-        "type": "1"
+        "path": "%s",
+        "name": "%s",
+        "data": "%s"
     }
 }

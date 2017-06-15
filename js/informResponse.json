@@ -1,17 +1,17 @@
 {
-    "name": "inform",
+    "name": "getResponse",
     "version": "1.0.0",
     "serialnumber": "%s",
-    "commandkey": "%d",
+    "keyname": "%s",
     "packet": {
         "serialnumber": "%s",
         "manufacturer": "PIFII",
         "model": "PF-308",
         "firmware": "v1.1.0-20170612",
-        "cpu_utilization": "20%",
-        "memory_utilization": "39772 / 61184",
-        "flash_utilization": "7300 / 16384",
-        "UpTime": "%d",
+        "cpu": "20%",
+        "memory": "39772 / 61184",
+        "flash": "7300 / 16384",
+        "uptime": "%d",
         "wificlient": [
             { "mac": "60:6D:C7:35:C5:A7", "type": "0", "host": "", "ip": "" },
             { "mac": "2C:D0:5A:EC:AA:C6", "type": "0", "host": "", "ip": "" },

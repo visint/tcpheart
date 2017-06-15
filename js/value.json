@@ -1,8 +1,8 @@
 {
-    "name": "get",
+    "name": "getResponse",
     "version": "1.0.0",
     "serialnumber": "%s",
-    "keyname": "wireless",
+    "keyname": "%s",
     "packet": {
         "type": "1"
     }
